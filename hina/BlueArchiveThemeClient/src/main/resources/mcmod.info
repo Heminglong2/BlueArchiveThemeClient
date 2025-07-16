@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "hina_pvp",
+    "name": "BlueArchiveThemeClient",
+    "description": "蔚蓝档案主题的PVP客户端",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "author": "YourName",
+    "url": "",
+    "updateUrl": "",
+    "credits": "作者是位sensei",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
